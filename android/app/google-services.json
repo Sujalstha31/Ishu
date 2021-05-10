@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969841568532",
+    "project_id": "bookmydoc-99614",
+    "storage_bucket": "bookmydoc-99614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969841568532:android:3f3b8c1e11f97a10db3001",
+        "android_client_info": {
+          "package_name": "com.smita.bookingdoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969841568532-gtnlqb2htlm36c5cou6i7c32jebjtgbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrLm7MW-gr0Fmly_I5Tv0x78NgG7NqJag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969841568532-gtnlqb2htlm36c5cou6i7c32jebjtgbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
